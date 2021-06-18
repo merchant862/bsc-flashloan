@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import 'IUniswapV2Pair.sol';
+import 'https://github.com/merchant862/bsc-flashloan/blob/main/IUniswapV2Pair.sol';
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol";
 
