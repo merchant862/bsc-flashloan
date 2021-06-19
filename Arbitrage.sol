@@ -1,10 +1,10 @@
 pragma solidity ^0.6.6;
 
-import 'UniswapV2Library.sol';
-import 'IUniswapV2Router02.sol';
-import 'IUniswapV2Pair.sol';
-import 'IUniswapV2Factory.sol';
-import 'IERC20.sol';
+import 'https://github.com/merchant862/bsc-flashloan/blob/main/UniswapV2Library.sol';
+import 'https://github.com/merchant862/bsc-flashloan/blob/main/IUniswapV2Router02.sol';
+import 'https://github.com/merchant862/bsc-flashloan/blob/main/IUniswapV2Pair.sol';
+import 'https://github.com/merchant862/bsc-flashloan/blob/main/IUniswapV2Factory.sol';
+import 'https://github.com/merchant862/bsc-flashloan/blob/main/IERC20.sol';
 
 contract Arbitrage {
   address public pancakeFactory;
